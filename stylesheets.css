@@ -108,6 +108,10 @@ main {
     .card img {
         width: 75%;
     }
+    
+    header div {
+        margin-right: 50px;
+    }
 }
 
 /* Mobile device */
@@ -120,7 +124,7 @@ main {
     header div {
         width: 100%;
         margin-left: 0;
-        margin-right: 50px;
+        margin-right: 100px;
     }
 
     .card {
